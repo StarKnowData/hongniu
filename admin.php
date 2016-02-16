@@ -2,7 +2,7 @@
 //ThinkPHP框架入口
 
 
-
+// lw 测试
 
 //开启调试模式
 define("APP_DEBUG",true);
