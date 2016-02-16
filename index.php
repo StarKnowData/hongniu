@@ -1,5 +1,5 @@
 <?php
-//ThinkPHP框架入口
+//AThinkPHP框架入口
 
 //开启调试模式
 define("APP_DEBUG",true);
